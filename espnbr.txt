@@ -1,0 +1,3 @@
+ffconcat version 1.0
+file 'http://195.181.160.217:25461/live/0303/0303/11258.ts'
+file 'espnbr.txt'
